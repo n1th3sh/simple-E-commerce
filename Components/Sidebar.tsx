@@ -66,7 +66,7 @@ const Sidebar = () => {
 
   return (
     <div className="w-64 p-5 h-screen bg-white shadow-md">
-      <h1 className="text-2xl font-bold mb-6 mt-4 text-center">Nithesh Store</h1>
+      <h1 className="text-2xl font-bold mb-6 mt-4 text-center">Divya Store</h1>
 
       {/* Search Input */}
       <input
